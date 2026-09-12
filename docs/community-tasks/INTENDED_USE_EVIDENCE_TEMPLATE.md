@@ -53,4 +53,4 @@ When a source reports formal qualification, certification, or regulatory use, re
 
 ## Review and Attribution
 
-Link the Issue or Pull Request, sources, reviewer comments, decision rationale, and any version into which accepted evidence is incorporated. Send Mostafa the submission link.
+Link the Issue or pull request, evidence sources, review comments, decision rationale, and the project version that incorporates the accepted contribution.
