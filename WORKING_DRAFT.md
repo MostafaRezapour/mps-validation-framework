@@ -27,3 +27,10 @@ What evidence is needed to support that an MPS is fit for a defined scientific o
 ## How to comment
 
 Use the repository issue forms to propose fields, definitions, evidence, mappings, examples, or changes.
+
+
+<!-- physioverse:task-update-v14:draft-template-link:start -->
+## Supporting Review Template
+
+[Use the contribution template](docs/community-tasks/INTENDED_USE_EVIDENCE_TEMPLATE.md) to provide definitions, source-linked evidence, and explicit review questions. It is a proposed review structure, not an adopted standard.
+<!-- physioverse:task-update-v14:draft-template-link:end -->
